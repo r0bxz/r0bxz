@@ -9,7 +9,7 @@ I'm a passionate **QA Engineer** currently based in Palestine. I’m part of the
 - 📫 How to reach me: [https://www.linkedin.com/in/mahmoud-abu-alrob-146644215/].
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python
+- **Languages:** Python,JavaScript
 - **Testing Frameworks:** Cypress, Selenium
 - **Tools:** Postman (API Testing), JMeter (Load Testing), Burp Suite (Security Testing)
 
